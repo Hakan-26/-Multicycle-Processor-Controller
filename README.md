@@ -1,2 +1,5 @@
-# -Multicycle-Processor-Controller
-Hakan Töre 2210357024 ELE432 HW2
+ELE432 Homework 2<br>
+Multicycle Processor Controller
+
+Name: Hakan Töre<br>
+Student ID: 2210357024
