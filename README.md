@@ -6,7 +6,9 @@ Student ID: 2210357024
 
 A bug was found in this homework: <br>
 I have updated the controller.tv to be the correct version so that it is the same riscV architecture as the one given in the homework pdf and the book.
-(The expected ALUControl values did not match the given Table 1. ALU Decoder logic.) 
+(The expected ALUControl values did not match the given Table 1. ALU Decoder logic.) <br>
+
+https://github.com/Hakan-26/-Multicycle-Processor-Controller/blob/main/ELE432%20HW2.pdf
 
 <img width="1678" height="370" alt="Ekran görüntüsü 2026-04-25 173411" src="https://github.com/user-attachments/assets/422607aa-cdea-4aca-b7aa-bc05e251c840" />
 
